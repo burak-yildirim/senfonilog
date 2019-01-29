@@ -1,0 +1,8 @@
+.vscode/
+*.pyc
+*.pyo
+media
+db.sqlite3
+__pycache__/
+*.log
+*.pot
