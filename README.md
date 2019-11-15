@@ -24,7 +24,7 @@ Since this is not a public API of a useful website like Instagram or Youtube, I 
 
 
 ---
-###EXAMPLE-1
+### EXAMPLE-1
 List blogs without posts that has 'Trip' tag (assume tag is is 7) :
 
 
@@ -51,7 +51,7 @@ possible response :
 ]
 ```
 ---
-###EXAMPLE-2
+### EXAMPLE-2
 Leave a comment under the "Story of Django Reinhardt" blog (assume blog id is 5) :
 
 
@@ -79,7 +79,7 @@ possible response :
 }
 ```
 ---
-###EXAMPLE-3
+### EXAMPLE-3
 Change the given blog's tag id to 1 (this is partial update): 
 
 
